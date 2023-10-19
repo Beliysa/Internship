@@ -1,7 +1,7 @@
 
 -Ek-1 Klasörü raporda bahsettiğim 3 sensörden kullanılmayan ikisine ait çıktı alma kodlarıdır.
 
--Ek-2 Klasörü projede kullandığımuz MPU-9250 sensörüne ait kodlardır. Kaydettiğim ilerlemeler aşama aşama olarak verilmiş 
+-Ek-2 Klasörü projede kullandığımız MPU-9250 sensörüne ait kodlardır. Kaydettiğim ilerlemeler aşama aşama olarak verilmiş 
 ve dosya adları hangi aşama olduğuna göre adlandırılmıştır. Bu klasörün son aşaması projenin son halidir.
 
 -Ek-3 Klasörü yine MPU-9250 sensörüne ait proje aşaması olmayan destekleyici kodlardır. İçerisinde işlemcinin hangi hızda çalıştığı,
