@@ -1,0 +1,24 @@
+
+-Ek-1 Klasörü raporda bahsettiğim 3 sensörden kullanılmayan ikisine ait çıktı alma kodlarıdır.
+
+-Ek-2 Klasörü projede kullandığımuz MPU-9250 sensörüne ait kodlardır. Kaydettiğim ilerlemeler aşama aşama olarak verilmiş 
+ve dosya adları hangi aşama olduğuna göre adlandırılmıştır. Bu klasörün son aşaması projenin son halidir.
+
+-Ek-3 Klasörü yine MPU-9250 sensörüne ait proje aşaması olmayan destekleyici kodlardır. İçerisinde işlemcinin hangi hızda çalıştığı,
+mikrodenetleyicinin hangi porta bağlı olduğu gibi işimize yarayan deneme kodları bulunmaktadır.
+
+-Ek-4 Ekstra Klasörü içerisinde üzerinde çalıştığım cihazların dökümanları, okunan makaleler gibi destekleyici materyaller bulunmaktadır.
+Ek-ekstra klasörü içindeki iki resim üstünde çalıştığım 2 farklı esp32 modelidir.İkisinin üzerinde de de aynı esp32 çipi bulunmakta. 
+Lora 32 V2 modeli ilk çalıştığım ve Wi-Fi desteği bulunan çip. Projenin benim çalıştığım düşme algılamakısmında Wi-Fi özelliğinin 
+kullanılmayacağına karar verildikten sonra Ar-Ge ekibinin Gateway özelliği üstünde çalışması için onlara verildi. 
+Ben ise paylaştığım diğer model olan Espressif Systems modeline geçtim.
+
+-Ek-5 Gerekli Kütüphaneler Klasörü içerisinde projede kullanılan bütün Arduino kütüphaneleri paylaşılmıştır. Bu dosyaları Arduino'nun default
+kütüphane dizinine kopyalarsanız bütün kodlar problem olmadan çalışacaktır, kütüphaneler üzerinde herhangi bir oynama yapılmamıştır.
+Ancak kodları çalıştırabilmek için projede bahsettiğim ESP32 model bir mikrodenetleyici ve MPU-9250 model bir 9-eksenli sensör gerekmektedir.
+Bu iki cihaz Ek-ekstra klasöründe gösterilen şekilde bağlandıktan sonra, ESP32 ayrıca bir bilgisayara bağlanarak Arduino IDE üzerinden program
+içine yüklenmelidir. Ancak bu şekilde program çıktılarını görebilmekteyiz. Bunun projeye bakacak kişiler açısından gerçekçi olmaması nedeniyle her 
+klasörün içerisine output videosu eklenmiştir.  
+
+
+-Şuayip Deniz Talha TOPAY 

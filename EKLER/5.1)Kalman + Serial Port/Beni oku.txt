@@ -1,6 +1,0 @@
-
-Videoda gördüğünüz yazılımın adı "Serial Plot" ve seri gelen verinin görselleştirilmesi için kullanılıyor. 
-Çıktı yorumlamamızda yardımcı olduğu için dahil ettim. 
-
-
-https://hackaday.io/project/5334-serialplot-realtime-plotting-software

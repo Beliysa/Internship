@@ -1,0 +1,3 @@
+ESP32 Chip model = ESP32-D0WDQ6 Rev 1
+This chip has 2 cores
+Chip ID: 5013468
