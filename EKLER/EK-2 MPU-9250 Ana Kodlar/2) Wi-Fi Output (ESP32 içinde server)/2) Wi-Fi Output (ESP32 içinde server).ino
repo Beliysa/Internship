@@ -3,8 +3,8 @@
 
 
 MPU9250_asukiaaa mySensor;
-const char* ssid = "Via";
-const char* password =  "viA.Via_2018";
+const char* ssid = "*****";             //Bu değerler şirketin kendi Wi-Fi ağına ait özel bilgilerdir. Kendi ağ verileriniz ile değiştiriniz.
+const char* password =  "******";
 WiFiServer server(80);
 unsigned long count=0;
 double variable1 = 0;
