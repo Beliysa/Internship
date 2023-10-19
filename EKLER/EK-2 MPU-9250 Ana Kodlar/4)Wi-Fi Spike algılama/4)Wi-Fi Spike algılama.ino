@@ -5,8 +5,8 @@ hw_timer_t * timer = NULL;       //Timer read object has 4 values.
 uint64_t timeRead = 0;            //timeRead() function returns uint64_t type. We call timeRead() with our object and return value is our time. 
 
 MPU9250_asukiaaa mySensor;
-const char* ssid = "Via";
-const char* password =  "viA.Via_2018";
+const char* ssid = "*****";             //Bu değerler şirketin kendi Wi-Fi ağına ait özel bilgilerdir. Kendi ağ verileriniz ile değiştiriniz.
+const char* password =  "******";
 
 
 
